@@ -26,6 +26,8 @@ python brightestSpotTracking.py
 ```
 - Try using a neutral background with a single bright source of light in frame.
 
+<img src = 'Results/result_1.jpg' width = "250"> <img src = 'Results/result_2.jpg' width = "250"> <img src = 'Results/result_3.jpg' width = "250">
+
 ## Future Enhancements
 
 - Implement noise reduction techniques for better accuracy.
